@@ -1,13 +1,13 @@
-title: "Affiliates"
-email: wowthemesnet@gmail.com
-timezone: UTC
-baseurl: "/affiliates-jekyll-theme"
+title: "AiDatayaj-Blog"
+email: tertimothy@gmail@gmail.com
+timezone: GMT
+baseurl: "/Timoyaj/AiDatayaj"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-author: Sal
-paginate: 30
-disqus: 'demowebsite'
+author: Timothy YAji
+paginate: 10
+disqus: 'dAiDatayaj'
 locale: en_us
 lang: en_us
 feed_items: 10
@@ -20,32 +20,32 @@ kramdown:
 sass:
   sass_dir: _sass
   style: :compressed
-ganalytics: UA-113961478-1
+ganalytics: ""
 
 # Authors
 authors:
   sal:
-    name: Sal
-    display_name: Sal
+    name: Yaji timothy
+    display_name: Yaji T
     avatar: 'assets/images/sal.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
+    email: tertimothy@gmail.com
+    web: https://www.datateryaj.net.ng
+    twitter: https://twitter.com/timothyyaji
     description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
   john:
-    name: John
+    name: timothy
     display_name: John
     avatar: 'assets/images/john.png'
     email: wowthemesnet@gmail.com
     web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
+    twitter: https://twitter.com/timoyaj
     description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
 
 # Social
 social:
   instagram: https://www.instagram.com/bootstrapstarter/
   facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
-  twitter: https://twitter.com/bstartercom
+  twitter: https://twitter.com/timoyaj
 
 # Plugins
 plugins: 
